@@ -2,6 +2,7 @@
 
 OUTPUT Masukkan Nilai  
 INPUT Nilai yang di masukkan  
+
 IF nilai <= 100 && nilai >=90 THEN  
 OUTPUT 'Nilai Anda Sangat Baik'  
 
